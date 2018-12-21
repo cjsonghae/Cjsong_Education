@@ -3,4 +3,6 @@
 def sub(a,b):
 	return a-b
 def mul(a,b):
-	retrun a * b
+	return a * b
+def dasd(a,b):
+	return a//b
